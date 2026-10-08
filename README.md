@@ -60,11 +60,6 @@ Advanced Cluster Management and Multicluster Observability.
 
 ## Architecture
 
-> 🚧 **Work In Progress**
->
-> This architecture image is from the ACM documentation. It will be updated as
-> this environment is built out.
-
 ![](./include/assets/img/architecture.png)
 
 This demo contains three clusters: a self-managed OpenShift cluster on AWS, a
